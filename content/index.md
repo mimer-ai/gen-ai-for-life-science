@@ -17,10 +17,20 @@ Intro
 ```
 
 ```{toctree}
+:caption: Setup
+:maxdepth: 1
+
+setup
+```
+
+```{toctree}
 :caption: The lesson
 :maxdepth: 1
 
-episode.md
+intro
+cell_fate_autoencoders
+protein_lm_structure_prediction
+medical_imaging_vlm
 ```
 
 ```{toctree}
