@@ -1,8 +1,7 @@
 [project]
-# FIXME: change this
-name = "sphinx-lesson-template"
+name = "gen-ai-for-life-science"
 version = "0.1.0"
-description = "Add your description here"
+description = "Generative AI for Life Science workshop materials"
 readme = "README.md"
 requires-python = ">=3.13,<3.14"
 dependencies = [

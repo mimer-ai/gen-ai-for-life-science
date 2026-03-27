@@ -1,12 +1,12 @@
-# LESSON NAME
+# Generative AI for Life Science
 
 Intro
 
 :::{prereq}
 
-- FIXME
-- ...
-- ...
+- Basic understanding of Python programming
+- Familiarity with machine learning concepts
+- Interest in life science applications
   :::
 
 ```{csv-table}
@@ -33,23 +33,23 @@ guide
 
 ## Learning outcomes
 
-FIXME
-
-This material is for ...
+This material is for researchers and practitioners in life sciences who want to learn about generative AI applications.
 
 By the end of this module, learners should:
 
-- ...
-- ...
+- Understand the basics of generative AI models
+- Learn about applications of generative AI in life sciences
+- Gain hands-on experience with generative AI tools for biological data
+- Develop skills to implement generative AI solutions for life science problems
 
 ## See also
 
 :::{admonition} Credit
 :class: warning
 
-FIXME
+This workshop was developed by Mimer AI Factory for life science researchers and practitioners.
 
-Don't forget to check out additional course materials from ...
+Don't forget to check out additional course materials from the Mimer AI Factory GitHub repository and our online documentation.
 
 :::
 
